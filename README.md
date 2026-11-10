@@ -1,4 +1,9 @@
-## Hi there 👋
+## UsefulWrong
+Correct destination. Wrong method.
+
+Experiments in games, tools, and the odd behavior of systems.
+
+Some ideas become articles. Others turn into code. A few stay questions for a while.
 
 <!--
 **usefulwrong/usefulwrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
